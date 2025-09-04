@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 
 const ShoppingCart: React.FC = () => {
@@ -11,4 +11,3 @@ const ShoppingCart: React.FC = () => {
 };
 
 export default ShoppingCart;
-```
