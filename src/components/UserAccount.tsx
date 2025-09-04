@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 
 const UserAccount: React.FC = () => {
@@ -11,4 +11,3 @@ const UserAccount: React.FC = () => {
 };
 
 export default UserAccount;
-```
