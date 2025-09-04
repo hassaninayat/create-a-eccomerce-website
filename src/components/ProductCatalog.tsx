@@ -1,4 +1,4 @@
-```tsx
+
 import React from 'react';
 
 const ProductCatalog: React.FC = () => {
@@ -11,4 +11,3 @@ const ProductCatalog: React.FC = () => {
 };
 
 export default ProductCatalog;
-```
