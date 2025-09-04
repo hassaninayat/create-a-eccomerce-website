@@ -1,4 +1,4 @@
-```tsx
+
 export interface Product {
   id: number;
   name: string;
@@ -12,4 +12,3 @@ export interface User {
   name: string;
   email: string;
 }
-```
